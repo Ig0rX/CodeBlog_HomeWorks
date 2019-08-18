@@ -23,7 +23,17 @@ namespace HWforLesson3
             ulong ul = 2_000_000_000;
             #endregion
             #region Дробные
+            float fl = 0.1F;
+            double db = 0.1D;
+            #endregion
 
+            #region Логические
+            bool bl1 = false;
+            bool bl2 = true;
+            #endregion
+
+            #region Специальные
+            decimal dc = 0.0001M;
             #endregion
         }
     }
