@@ -32,6 +32,11 @@ namespace HWforLesson3
             bool bl2 = true;
             #endregion
 
+            #region Строковые
+            char chr = 'A';
+            string str = "Это строка";
+            #endregion
+
             #region Специальные
             decimal dc = 0.0001M;
             #endregion
