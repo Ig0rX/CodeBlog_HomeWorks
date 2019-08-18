@@ -18,7 +18,7 @@ namespace HWforLesson2
             string txt3 = "Follow the white Rabbit.";
             string txt4 = "Knock, knock, Neo.";
 
-            NeoConsole neoConsole = new NeoConsole(500, ConsoleColor.Green);
+            NeoConsole neoConsole = new NeoConsole(250, ConsoleColor.Green);
             Action<string, bool> show = new Action<string, bool>(neoConsole.Show);
 
             show(txt1, false);

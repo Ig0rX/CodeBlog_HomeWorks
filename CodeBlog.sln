@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson2", "HWforEx2\HWforLesson2.csproj", "{E6ED4271-56EB-43B0-A5B4-2212348B1DFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson2", "HWforLesson2\HWforLesson2.csproj", "{E6ED4271-56EB-43B0-A5B4-2212348B1DFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
