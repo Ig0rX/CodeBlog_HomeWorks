@@ -29,6 +29,7 @@ namespace HWforLesson4
             string sbool = "True";
             bool bl = Convert.ToBoolean(sbool);
             Console.WriteLine($"sbool = {sbool}, bl = {bl}");
+
         }
     }
 }
