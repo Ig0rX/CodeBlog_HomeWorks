@@ -10,6 +10,21 @@ namespace HWforLesson5
     {
         static void Main(string[] args)
         {
+
+            Console.Write("Введите числа через запятую: ");
+            string input = Console.ReadLine();
+
+            var numbers = input.Split(',').Select(x=>int.Parse(x)).ToArray();
+            var minNumber = numbers.Min();
+
+            Console.WriteLine($"Меньшее число: {minNumber}") ;
+
+            switch(minNumber)
+            {
+                case int i when i % 2 == 0: Console.WriteLine($"Число {minNumber} чётное"); break;
+                case int i when i % 2 != 0: Console.WriteLine($"Число {minNumber} нечётное"); break;
+            }
+
         }
     }
 }
