@@ -26,6 +26,9 @@ namespace HWforLesson4
             Console.WriteLine($"f = {f}, d = {f}");
 
 
+            string sbool = "True";
+            bool bl = Convert.ToBoolean(sbool);
+            Console.WriteLine($"sbool = {sbool}, bl = {bl}");
 
         }
     }
