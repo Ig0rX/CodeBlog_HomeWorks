@@ -20,7 +20,7 @@ namespace HWforLesson10
 
         public override void Inform()
         {
-           Console.WriteLine($"Компьютер {Name}, {Devices} стоит {Price}");
+           Console.WriteLine($"Компьютер {Name}, {Devices} - стоит {Price:c}");
         }
     }
 }
