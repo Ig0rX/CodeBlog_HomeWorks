@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Benzin.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="Diesel.cs" />
+    <Compile Include="Engine.cs" />
+    <Compile Include="Fuel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
