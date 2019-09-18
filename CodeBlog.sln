@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson11", "HWforLesso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson12", "HWforLesson12\HWforLesson12.csproj", "{CFB92EC5-999D-48E0-89DC-DF5D9DF03A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson13", "HWforLesson13\HWforLesson13.csproj", "{7548D024-9C3F-4DCA-A863-7499A0C7BD21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWforLesson14_Exception", "HWforLesson14_Exception\HWforLesson14_Exception.csproj", "{FA725033-A230-426E-AEDE-2E6E421F80F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{CFB92EC5-999D-48E0-89DC-DF5D9DF03A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFB92EC5-999D-48E0-89DC-DF5D9DF03A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFB92EC5-999D-48E0-89DC-DF5D9DF03A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7548D024-9C3F-4DCA-A863-7499A0C7BD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7548D024-9C3F-4DCA-A863-7499A0C7BD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7548D024-9C3F-4DCA-A863-7499A0C7BD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7548D024-9C3F-4DCA-A863-7499A0C7BD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA725033-A230-426E-AEDE-2E6E421F80F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA725033-A230-426E-AEDE-2E6E421F80F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA725033-A230-426E-AEDE-2E6E421F80F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA725033-A230-426E-AEDE-2E6E421F80F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
